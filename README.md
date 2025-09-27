@@ -154,7 +154,3 @@ unzip -o data/raw/titanic.zip -d data/raw
 
 Hasti Aksoy
 GitHub: @hasti-aksoy
-=======
-# Titanic-Survival-Prediction
-"Machine learning project on Titanic dataset. Includes data cleaning, feature engineering, and model building for survival prediction."
->>>>>>> 5f6348504d6c25f4547e4f6b81b2577819786138
